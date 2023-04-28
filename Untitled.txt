@@ -1,2 +1,15 @@
 git config --global user.email eric.dahms@dentsuaegis.com
 git config --global user.name edahms01
+
+
+
+git add /home/project/xzceb-flask_eng_fr/final_project/server.py
+
+
+Give your token a descriptive name. To give your token an expiration, select the Expiration drop-down menu, then click a default or use the calendar picker. 
+Select the scopes, or permissions, you'd like to grant this token. To use your token to access repositories from the command line, select repo.
+
+
+
+
+git push https://github.com/edahms01
