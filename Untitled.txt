@@ -1,0 +1,2 @@
+git config --global user.email eric.dahms@dentsuaegis.com
+git config --global user.name edahms01
