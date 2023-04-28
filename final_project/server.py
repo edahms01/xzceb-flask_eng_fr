@@ -10,12 +10,9 @@ def renderIndexPage():
 
 
 @app.route("/englishToFrench")
-def englishToFrench():
+def english_to_french():
     textToTranslate = request.args.get('textToTranslate')
     
-    e
-    english_to_french()
-
     return "Translated text to French"
     
 

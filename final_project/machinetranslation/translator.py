@@ -59,8 +59,8 @@ def french_to_english(french_text):
         print('No result')
 
 
-#english_text = 'hello'
-#english_to_french(english_text)
+english_text = 'hello'
+english_to_french(english_text)
 
-#french_text = 'bonjour'
-#french_to_english(french_text)
+french_text = 'bonjour'
+french_to_english(french_text)
