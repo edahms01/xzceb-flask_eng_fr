@@ -16,18 +16,13 @@ def english_to_french():
     return "Translated text to French"
     
 
-
-'''
 @app.route("/frenchToEnglish")
-def frenchToEnglish():
+def french_to_english():
     textToTranslate = request.args.get('textToTranslate')
-    
-    #frenchtext = textToTranslate
-    #french_to_english(textToTranslate)
 
     return "Translated text to English"
-    print(tr_z)
-'''
+
+
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
